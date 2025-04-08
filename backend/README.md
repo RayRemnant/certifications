@@ -18,7 +18,9 @@ Completed a comprehensive learning path on building applications with MongoDB an
 
 Completed a comprehensive introduction to C# programming, covering its core concepts, syntax, and practical application in software development, including variables, data types, control structures, and object-oriented programming principles. (35 hrs)
 
-![f](https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2023/08/csharp-certification-banner.png)
+<div align="center">
+<img width="675" src="https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2023/08/csharp-certification-banner.png">
+</div>
 
 ## API Fundamentals - Postman
 
