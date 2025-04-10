@@ -48,5 +48,5 @@ Completed the following courses:
 - React Challenges (in progress)
 
 <div align="center">
-<img width="141" src="https://i.imgur.com/RL9tDWR.png">
+<img width="141" src="https://pbs.twimg.com/profile_images/1790400990161567744/KY1XZp9o_400x400.jpg">
 </div>
