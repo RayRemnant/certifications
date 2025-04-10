@@ -11,7 +11,7 @@ Completed an in-depth course on modern web development, covering React, Node.js,
 Earned the Responsive Web Design Certification from freeCodeCamp by completing a series of hands-on projects and lessons focused on HTML, CSS, Flexbox, Grid, and responsive design principles. Gained practical experience building user-friendly, accessible, and mobile-first web interfaces. (300 hrs)
 
 <div align="center">
-<img style="filter: drop-shadow(0px 0px 5px white)" width="128" src="https://www.freecodecamp.org/static/ribbon-f4307732bf92855b215beb8c6dbde5cc.svg">
+<img width="128" src="https://www.freecodecamp.org/static/ribbon-f4307732bf92855b215beb8c6dbde5cc.svg">
 </div>
 
 ## Introduction to User Experience - Accenture
@@ -27,9 +27,7 @@ Completed a course on the fundamentals of UX design, covering its impact on busi
 Completed a course on fundamental design principles, covering contrast, color theory, visual balance, proportion, the rule of thirds, alignment, proximity, repetition, and consistency. (3 hrs)
 
 <div align="center">
-<img style="margin-top: 10px" width="220" src="
-https://images.credly.com/size/110x110/images/13ba6d71-e938-4fc0-a341-b0c7df45c095/Basic_Principles_of_Design.png
-">
+<img width="220" src="https://images.credly.com/size/110x110/images/13ba6d71-e938-4fc0-a341-b0c7df45c095/Basic_Principles_of_Design.png">
 </div>
 
 ## Green Digital Skills - INCO Academy
@@ -37,7 +35,7 @@ https://images.credly.com/size/110x110/images/13ba6d71-e938-4fc0-a341-b0c7df45c0
 Completed a course on integrating sustainable practices into web development, focusing on reducing digital carbon footprints, optimizing website performance for energy efficiency, and implementing eco-friendly design principles.
 
 <div align="center">
-<img style="margin-top: 10px" width="420" src="https://static.wixstatic.com/media/e37d76_2de1428cf5d24bada0a6847fe117200d~mv2.png/v1/fill/w_1200,h_630,al_c/e37d76_2de1428cf5d24bada0a6847fe117200d~mv2.png">
+<img width="420" src="https://static.wixstatic.com/media/e37d76_2de1428cf5d24bada0a6847fe117200d~mv2.png/v1/fill/w_1200,h_630,al_c/e37d76_2de1428cf5d24bada0a6847fe117200d~mv2.png">
 </div>
 
 ## React - Scrimba
@@ -50,5 +48,5 @@ Completed the following courses:
 - React Challenges (in progress)
 
 <div align="center">
-<img style="filter: drop-shadow(0px 1px 3px white)"  width="141" src="https://i.imgur.com/RL9tDWR.png">
+<img width="141" src="https://i.imgur.com/RL9tDWR.png">
 </div>
