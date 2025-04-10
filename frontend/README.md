@@ -27,7 +27,7 @@ Completed a course on the fundamentals of UX design, covering its impact on busi
 Completed a course on fundamental design principles, covering contrast, color theory, visual balance, proportion, the rule of thirds, alignment, proximity, repetition, and consistency. (3 hrs)
 
 <div align="center">
-<img width="220" src="https://images.credly.com/size/110x110/images/13ba6d71-e938-4fc0-a341-b0c7df45c095/Basic_Principles_of_Design.png">
+<img width="220" src="https://higherlogicdownload.s3.amazonaws.com/IMWUC/UploadedImages/fpyxKIURNKwvpDbDUmCA_basic-principles-of-design%20(1).png">
 </div>
 
 ## Green Digital Skills - INCO Academy
