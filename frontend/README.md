@@ -11,7 +11,7 @@ Completed an in-depth course on modern web development, covering React, Node.js,
 Earned the Responsive Web Design Certification from freeCodeCamp by completing a series of hands-on projects and lessons focused on HTML, CSS, Flexbox, Grid, and responsive design principles. Gained practical experience building user-friendly, accessible, and mobile-first web interfaces. (300 hrs)
 
 <div align="center">
-<img width="128" src="https://assets-sigma-black.vercel.app/freecodecamp--responsive-web-design.svg">
+<img width="150" src="https://assets-sigma-black.vercel.app/freecodecamp--responsive-web-design.svg">
 </div>
 
 ## Introduction to User Experience - Accenture
